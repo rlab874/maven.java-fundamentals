@@ -162,7 +162,7 @@ public class MathUtilities {
     /**
      * @param dividend value to be divided
      * @param divisor value to divide by
-     * @return division of `dividend` by `divisor
+     * @return division of `dividend` by `divisor d
      */
     public Double divideDoubles(double dividend, double divisor) {
         return null;
